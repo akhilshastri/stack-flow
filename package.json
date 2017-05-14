@@ -1,0 +1,22 @@
+{
+  "name": "mithril-vjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bullet-pubsub": "^2.1.0",
+    "mithril": "^0.2.2-rc.1",
+    "cheerio": "^0.19.0",
+    "ent": "^2.2.0",
+    "nedb": "^1.1.2",
+    "string-format": "^0.5.0"
+  },
+  "devDependencies": {
+    "jsonfile": "^2.4.0"
+  }
+}

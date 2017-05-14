@@ -1,0 +1,302 @@
+[
+  {
+    "vote": "4535",
+    "question": "“Thinking in AngularJS” if I have a jQuery background? [closed]",
+    "link": "/questions/14994391/thinking-in-angularjs-if-i-have-a-jquery-background",
+    "time": "2013-02-21 04:09:56Z"
+  },
+  {
+    "vote": "2830",
+    "question": "AngularJS: Service vs provider vs factory",
+    "link": "/questions/15666048/angularjs-service-vs-provider-vs-factory",
+    "time": "2013-03-27 17:59:46Z"
+  },
+  {
+    "vote": "1543",
+    "question": "How does data binding work in AngularJS?",
+    "link": "/questions/9682092/how-does-data-binding-work-in-angularjs",
+    "time": "2012-03-13 10:16:37Z"
+  },
+  {
+    "vote": "1005",
+    "question": "What is the best way to conditionally apply a class?",
+    "link": "/questions/7792652/what-is-the-best-way-to-conditionally-apply-a-class",
+    "time": "2011-10-17 10:49:52Z"
+  },
+  {
+    "vote": "960",
+    "question": "angular.service vs angular.factory",
+    "link": "/questions/14324451/angular-service-vs-angular-factory",
+    "time": "2013-01-14 18:36:41Z"
+  },
+  {
+    "vote": "929",
+    "question": "How do I access the $scope variable in browser's console using AngularJS?",
+    "link": "/questions/13743058/how-do-i-access-the-scope-variable-in-browsers-console-using-angularjs",
+    "time": "2012-12-06 11:52:41Z"
+  },
+  {
+    "vote": "892",
+    "question": "What is the difference between '@' and '=' in directive scope in AngularJS?",
+    "link": "/questions/14050195/what-is-the-difference-between-and-in-directive-scope-in-angularjs",
+    "time": "2012-12-27 06:10:29Z"
+  },
+  {
+    "vote": "869",
+    "question": "What is the difference between angular-route and angular-ui-router?",
+    "link": "/questions/21023763/what-is-the-difference-between-angular-route-and-angular-ui-router",
+    "time": "2014-01-09 15:03:28Z"
+  },
+  {
+    "vote": "856",
+    "question": "What are the nuances of scope prototypal / prototypical inheritance in AngularJS?",
+    "link": "/questions/14049480/what-are-the-nuances-of-scope-prototypal-prototypical-inheritance-in-angularjs",
+    "time": "2012-12-27 04:48:31Z"
+  },
+  {
+    "vote": "845",
+    "question": "How do I use $scope.$watch and $scope.$apply in AngularJS?",
+    "link": "/questions/15112584/how-do-i-use-scope-watch-and-scope-apply-in-angularjs",
+    "time": "2013-02-27 12:50:07Z"
+  },
+  {
+    "vote": "836",
+    "question": "'this' vs $scope in AngularJS controllers",
+    "link": "/questions/11605917/this-vs-scope-in-angularjs-controllers",
+    "time": "2012-07-23 02:55:47Z"
+  },
+  {
+    "vote": "755",
+    "question": "Working with $scope.$emit and .$on",
+    "link": "/questions/14502006/working-with-scope-emit-and-on",
+    "time": "2013-01-24 13:03:17Z"
+  },
+  {
+    "vote": "676",
+    "question": "AngularJS : Prevent error $digest already in progress when calling $scope.$apply()",
+    "link": "/questions/12729122/angularjs-prevent-error-digest-already-in-progress-when-calling-scope-apply",
+    "time": "2012-10-04 14:07:32Z"
+  },
+  {
+    "vote": "644",
+    "question": "AngularJS : Insert HTML into view",
+    "link": "/questions/9381926/angularjs-insert-html-into-view",
+    "time": "2012-02-21 17:12:12Z"
+  },
+  {
+    "vote": "627",
+    "question": "How do search engines deal with AngularJS applications?",
+    "link": "/questions/13499040/how-do-search-engines-deal-with-angularjs-applications",
+    "time": "2012-11-21 17:44:48Z"
+  },
+  {
+    "vote": "617",
+    "question": "How to set focus on input field?",
+    "link": "/questions/14833326/how-to-set-focus-on-input-field",
+    "time": "2013-02-12 13:08:52Z"
+  },
+  {
+    "vote": "555",
+    "question": "if else statement in AngularJS templates",
+    "link": "/questions/15810278/if-else-statement-in-angularjs-templates",
+    "time": "2013-04-04 11:50:13Z"
+  },
+  {
+    "vote": "544",
+    "question": "How to use a filter in a controller?",
+    "link": "/questions/14302267/how-to-use-a-filter-in-a-controller",
+    "time": "2013-01-13 09:29:54Z"
+  },
+  {
+    "vote": "526",
+    "question": "How do I bind to list of checkbox values with AngularJS?",
+    "link": "/questions/14514461/how-do-i-bind-to-list-of-checkbox-values-with-angularjs",
+    "time": "2013-01-25 02:36:46Z"
+  },
+  {
+    "vote": "525",
+    "question": "How can I iterate over the keys, value in ng-repeat in angular",
+    "link": "/questions/15127834/how-can-i-iterate-over-the-keys-value-in-ng-repeat-in-angular",
+    "time": "2013-02-28 04:57:45Z"
+  },
+  {
+    "vote": "525",
+    "question": "Confused about Service vs Factory",
+    "link": "/questions/13762228/confused-about-service-vs-factory",
+    "time": "2012-12-07 11:31:55Z"
+  },
+  {
+    "vote": "510",
+    "question": "Why does AngularJS include an empty option in select?",
+    "link": "/questions/12654631/why-does-angularjs-include-an-empty-option-in-select",
+    "time": "2012-09-29 17:04:45Z"
+  },
+  {
+    "vote": "495",
+    "question": "Can one controller call another?",
+    "link": "/questions/9293423/can-one-controller-call-another",
+    "time": "2012-02-15 12:31:20Z"
+  },
+  {
+    "vote": "491",
+    "question": "How do I set the value property in AngularJS' ng-options?",
+    "link": "/questions/12139152/how-do-i-set-the-value-property-in-angularjs-ng-options",
+    "time": "2012-08-27 09:13:25Z"
+  },
+  {
+    "vote": "484",
+    "question": "What is the difference between Polymer elements and AngularJS directives?",
+    "link": "/questions/18089075/what-is-the-difference-between-polymer-elements-and-angularjs-directives",
+    "time": "2013-08-06 19:42:34Z"
+  },
+  {
+    "vote": "470",
+    "question": "Complex nesting of partials and templates",
+    "link": "/questions/12863663/complex-nesting-of-partials-and-templates",
+    "time": "2012-10-12 16:49:09Z"
+  },
+  {
+    "vote": "467",
+    "question": "AngularJS passing data to $http.get request",
+    "link": "/questions/13760070/angularjs-passing-data-to-http-get-request",
+    "time": "2012-12-07 09:16:20Z"
+  },
+  {
+    "vote": "465",
+    "question": "What's the difference between ng-model and ng-bind",
+    "link": "/questions/12419619/whats-the-difference-between-ng-model-and-ng-bind",
+    "time": "2012-09-14 07:02:10Z"
+  },
+  {
+    "vote": "464",
+    "question": "How can I post data as form data instead of a request payload?",
+    "link": "/questions/11442632/how-can-i-post-data-as-form-data-instead-of-a-request-payload",
+    "time": "2012-07-11 22:44:10Z"
+  },
+  {
+    "vote": "454",
+    "question": "Combating AngularJS executing controller twice",
+    "link": "/questions/15535336/combating-angularjs-executing-controller-twice",
+    "time": "2013-03-20 21:43:16Z"
+  },
+  {
+    "vote": "454",
+    "question": "AngularJS : link vs compile vs controller",
+    "link": "/questions/15676614/angularjs-link-vs-compile-vs-controller",
+    "time": "2013-03-28 07:48:54Z"
+  },
+  {
+    "vote": "443",
+    "question": "Redirecting to a certain route based on condition",
+    "link": "/questions/11541695/redirecting-to-a-certain-route-based-on-condition",
+    "time": "2012-07-18 12:44:22Z"
+  },
+  {
+    "vote": "429",
+    "question": "Does it make sense to use Require.js with Angular.js? [closed]",
+    "link": "/questions/12529083/does-it-make-sense-to-use-require-js-with-angular-js",
+    "time": "2012-09-21 10:49:38Z"
+  },
+  {
+    "vote": "427",
+    "question": "What's the correct way to communicate between controllers in AngularJS?",
+    "link": "/questions/11252780/whats-the-correct-way-to-communicate-between-controllers-in-angularjs",
+    "time": "2012-06-28 20:58:29Z"
+  },
+  {
+    "vote": "414",
+    "question": "When to favor ng-if vs. ng-show/ng-hide?",
+    "link": "/questions/21869283/when-to-favor-ng-if-vs-ng-show-ng-hide",
+    "time": "2014-02-19 01:42:02Z"
+  },
+  {
+    "vote": "405",
+    "question": "AngularJS : Initialize service with asynchronous data",
+    "link": "/questions/16286605/angularjs-initialize-service-with-asynchronous-data",
+    "time": "2013-04-29 19:25:07Z"
+  },
+  {
+    "vote": "396",
+    "question": "Angular directives - when and how to use compile, controller, pre-link and post-link [closed]",
+    "link": "/questions/24615103/angular-directives-when-and-how-to-use-compile-controller-pre-link-and-post",
+    "time": "2014-07-07 16:13:02Z"
+  },
+  {
+    "vote": "391",
+    "question": "AngularJS 1.2 $injector:modulerr",
+    "link": "/questions/18287482/angularjs-1-2-injectormodulerr",
+    "time": "2013-08-17 09:56:56Z"
+  },
+  {
+    "vote": "386",
+    "question": "Working with select using AngularJS's ng-options",
+    "link": "/questions/13047923/working-with-select-using-angularjss-ng-options",
+    "time": "2012-10-24 11:03:20Z"
+  },
+  {
+    "vote": "383",
+    "question": "ng-repeat :filter by single field",
+    "link": "/questions/14733136/ng-repeat-filter-by-single-field",
+    "time": "2013-02-06 15:52:09Z"
+  },
+  {
+    "vote": "374",
+    "question": "Angular ng-repeat Error “Duplicates in a repeater are not allowed.”",
+    "link": "/questions/16296670/angular-ng-repeat-error-duplicates-in-a-repeater-are-not-allowed",
+    "time": "2013-04-30 09:37:18Z"
+  },
+  {
+    "vote": "370",
+    "question": "Watch multiple $scope attributes",
+    "link": "/questions/11952579/watch-multiple-scope-attributes",
+    "time": "2012-08-14 12:49:41Z"
+  },
+  {
+    "vote": "367",
+    "question": "Difference between the 'controller', 'link' and 'compile' functions when defining a directive",
+    "link": "/questions/12546945/difference-between-the-controller-link-and-compile-functions-when-definin",
+    "time": "2012-09-22 19:19:03Z"
+  },
+  {
+    "vote": "364",
+    "question": "AngularJS : How to watch service variables?",
+    "link": "/questions/12576798/angularjs-how-to-watch-service-variables",
+    "time": "2012-09-25 05:41:06Z"
+  },
+  {
+    "vote": "363",
+    "question": "How to dynamically change header based on AngularJS partial view?",
+    "link": "/questions/12506329/how-to-dynamically-change-header-based-on-angularjs-partial-view",
+    "time": "2012-09-20 05:04:11Z"
+  },
+  {
+    "vote": "357",
+    "question": "What is the correct syntax of ng-include?",
+    "link": "/questions/13943471/what-is-the-correct-syntax-of-ng-include",
+    "time": "2012-12-18 23:56:27Z"
+  },
+  {
+    "vote": "353",
+    "question": "How to display length of filtered ng-repeat data",
+    "link": "/questions/15316363/how-to-display-length-of-filtered-ng-repeat-data",
+    "time": "2013-03-09 21:56:26Z"
+  },
+  {
+    "vote": "344",
+    "question": "How is AngularJS different from jQuery",
+    "link": "/questions/13151725/how-is-angularjs-different-from-jquery",
+    "time": "2012-10-31 05:22:42Z"
+  },
+  {
+    "vote": "342",
+    "question": "Adding multiple class using ng-class",
+    "link": "/questions/18871277/adding-multiple-class-using-ng-class",
+    "time": "2013-09-18 11:40:59Z"
+  },
+  {
+    "vote": "340",
+    "question": "what is the difference between ng-if and ng-show/ng-hide",
+    "link": "/questions/19177732/what-is-the-difference-between-ng-if-and-ng-show-ng-hide",
+    "time": "2013-10-04 09:26:14Z"
+  }
+]
